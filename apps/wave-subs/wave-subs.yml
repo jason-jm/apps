@@ -1,0 +1,35 @@
+name: Wave Subs
+description: 'Generates SRT/ASS subtitles from any video with local AI and auto-translates them, fully offline.'
+website: 'https://wavesubs.com'
+repository: 'https://github.com/jason-jm/wavesubs'
+keywords:
+  - subtitles
+  - srt
+  - ass
+  - whisper
+  - translation
+  - offline
+  - speech recognition
+license: MIT
+category: 'Photo & Video'
+screenshots:
+  - imageUrl: 'https://wavesubs.com/assets/shots/en-dark-editor.jpg'
+    caption: 'Subtitle editor with video preview'
+  - imageUrl: 'https://wavesubs.com/assets/shots/en-dark-translate-models.jpg'
+    caption: 'Local translation models'
+  - imageUrl: 'https://wavesubs.com/assets/shots/en-dark-batch.jpg'
+    caption: 'Batch a whole season'
+locales:
+  - zh-CN
+  - zh-TW
+  - ja
+  - ko
+  - fr
+  - de
+  - es
+  - pt
+  - ru
+  - id
+  - ms
+  - vi
+  - th
